@@ -31,7 +31,7 @@ It allows users to **add**, **update**, **delete**, and **mark tasks as complete
 - Completed Task Screen 
 ---
 <p align="center">
-  <img src="./splash.jpg" alt="Splash Screen" width="250"/>
+  <img src="./ChatGPT Image Mar 26, 2026, 03_18_24 PM.png" alt="Splash Screen" width="250"/>
 </p>
 
 
